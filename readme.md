@@ -9,14 +9,17 @@ We remind you that this is a study project and therefore by definition all copyr
 This project is a non-profit project for the promotion of culture.
 all the rights of the works belong to their respective authors.
 
+
 ## Features
 
-- WebGL world
-- Paralax when aproach paintings
-- 3D sound desing near paintings
-- 3D paintings
-- Draco compression
-- First person camera
+- Basic files support (html, css, js, stylus, fonts, images)
+- Extracted CSS
+- Transpiling (with Babel)
+- Sourcemaps
+- Clean dist
+- Dev server with local network support
+- Static files
+- Cache breaker
 
 ## Instructions
 
@@ -31,4 +34,5 @@ To navigate in our museum
 ```
 Z Q S D
 ```
+
 
